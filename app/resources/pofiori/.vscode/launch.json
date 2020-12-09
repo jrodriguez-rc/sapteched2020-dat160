@@ -5,7 +5,7 @@
             "name": "Start pofiori Mock",
             "type": "node",
             "request": "launch",
-            "cwd": "/home/user/projects/dat160/app/resources/pofiori",
+            "cwd": "/home/user/projects/sapteched2020-dat160/app/resources/pofiori",
             "runtimeExecutable": "npm",
             "windows": {
                 "runtimeExecutable": "npm.cmd"
@@ -18,14 +18,14 @@
             "internalConsoleOptions": "neverOpen",
             "port": 9229,
             "env": {
-                "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/dat160/app/resources/pofiori\"}"
+                "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/sapteched2020-dat160/app/resources/pofiori\"}"
             }
         },
         {
             "name": "Start pofiori Local",
             "type": "node",
             "request": "launch",
-            "cwd": "/home/user/projects/dat160/app/resources/pofiori",
+            "cwd": "/home/user/projects/sapteched2020-dat160/app/resources/pofiori",
             "runtimeExecutable": "npm",
             "windows": {
                 "runtimeExecutable": "npm.cmd"
@@ -38,7 +38,7 @@
             "internalConsoleOptions": "neverOpen",
             "port": 9229,
             "env": {
-                "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/dat160/app/resources/pofiori\"}"
+                "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/sapteched2020-dat160/app/resources/pofiori\"}"
             }
         }
     ],
